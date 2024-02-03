@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Rahul-neophyte/Rahul-neophyte/main/LinkedIn bb1.jpg"> </div>
 <h3 align="center">A passionate Aspiring DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-neophyte" alt="rahul-neophyte" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-neophyte&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-neophyte" /> </p>
 
 - 🔭 I’m currently working **to Improove my Knowledge in DevOps and Cloud**
 
@@ -26,3 +27,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-neophyte&show_icons=true&locale=en&layout=compact" alt="rahul-neophyte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-neophyte&show_icons=true&locale=en" alt="rahul-neophyte" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-neophyte&" alt="rahul-neophyte" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahul-neophytelimit=5&theme=flat&combine_all_yearly_contributions=true)
+
+My GitHub Contributions
+
+40 ![Snake animation](https://github.com/rahul-neophyte/rahul-neophyte/blob/output/github-contribution-grid-snake.svg)
