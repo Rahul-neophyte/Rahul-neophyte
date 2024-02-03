@@ -29,10 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-neophyte&show_icons=true&locale=en" alt="rahul-neophyte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-neophyte&" alt="rahul-neophyte" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahul-neophytelimit=5&theme=flat&combine_all_yearly_contributions=true)
-
-My GitHub Contributions
-
-40 ![Snake animation](https://github.com/rahul-neophyte/rahul-neophyte/blob/output/github-contribution-grid-snake.svg)
