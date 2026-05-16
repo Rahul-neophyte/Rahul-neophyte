@@ -25,7 +25,6 @@
 🌱 Currently Learning  → Detection Engineering | Threat Intelligence | Python for Security
 💼 Background          → 2+ years IT Support (Endpoint Protection, DLP, Active Directory)
 🚀 Transitioning       → IT Helpdesk → Cybersecurity (SOC / Detection Engineering)
-📍 Location            → Kadapa, Andhra Pradesh, India
 📧 Contact             → rahulkathi387@gmail.com
 ```
 
